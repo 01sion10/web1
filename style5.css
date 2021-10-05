@@ -1,0 +1,26 @@
+h1 {color: red;}
+p {
+  color: #912bc5;
+  line-height: 200%;
+  font-size: 20px;
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+}
+h3 {
+  color: red;
+  text-shadow: 3px 3px 5px #333333;
+}
+h4 {
+  color: red;
+  font-family: "맑은 고딕";
+}
+h5 {
+  color: purple;
+  font-family: Georgia;
+}
+h6 {
+  font-style: italic;
+  font-weight: bold;
+}
